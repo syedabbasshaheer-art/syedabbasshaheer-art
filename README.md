@@ -26,7 +26,7 @@ A Claude Code plugin that shows a project as a page in the browser: the plan, wh
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://design.abbasshaheer.com"><img src="images/design-library.jpg" alt="Design library: the systems on the left, the Liquid Glass design filling the window"></a>
+<a href="https://design.abbasshaheer.com"><img src="images/design-library-liquid-glass.jpg" alt="Design library: the systems on the left, the Liquid Glass design filling the window"></a>
 
 **[Design library](https://github.com/syedabbasshaheer-art/design-library)**<br>
 Sixty-seven working screens in twelve design systems, each at desktop and phone width, for choosing the shape of a screen before building it.<br>
