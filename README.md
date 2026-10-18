@@ -4,19 +4,20 @@
 
 ### I build products with AI agents, and the tools to see and steer what they do.
 
-[Agent on Browser](#agent-on-browser) &nbsp;·&nbsp; [AI on GitHub](#ai-on-github) &nbsp;·&nbsp; [NCERT Shorts](#ncert-shorts) &nbsp;·&nbsp; [How I work](#how-i-work)
+[Agent on Browser](#agent-on-browser) &nbsp;·&nbsp; [AI on GitHub](#ai-on-github) &nbsp;·&nbsp; [NCERT Shorts](#ncert-shorts) &nbsp;·&nbsp; [Design library](#design-library) &nbsp;·&nbsp; [How I work](#how-i-work)
 
 </div>
 
 <br>
 
-## Three products
+## Four products
 
 | | What it is | For | Status | Code |
 |---|---|---|---|---|
 | **[Agent on Browser](https://github.com/syedabbasshaheer-art/browser-agent)** | Your project as a board in the browser, and a way to steer your AI agent from it | Anyone running a project with an AI agent | Released, updated often | **Open source, MIT** |
 | **[AI on GitHub](https://aiongithub.com)** | A catalogue of shipped AI projects, filed by what each one is for | Anyone about to build something with AI | Live, 2,453 projects | Proprietary |
 | **[NCERT Shorts](https://ncertshorts.com)** | Every topic of the textbook, with more than one way in | Students of Classes 9 to 12 | Live, Class X Science | Proprietary |
+| **[Design library](https://design.abbasshaheer.com)** | Whole screens you can open and run, to pick the shape of a product before building it | Anyone designing a new product screen | Live, 67 designs | Proprietary |
 
 <br>
 
@@ -60,6 +61,18 @@ Class X Science is live, all 13 chapters. Classes 9 to 12 follow.
 
 <br>
 
+## Design library
+
+<a href="https://design.abbasshaheer.com"><img src="images/design-library.jpg" alt="Design library: design systems as cards on the left, the chosen design filling the rest of the window" width="100%"></a>
+
+**Every new product screen starts with the same four questions: what shape is it, which parts does it need, how are they arranged, and what happens when someone touches it.** The Design library answers them with whole screens you can open and run, at desktop and phone width: 12 systems and 67 designs, from feeds, boards and checkouts to the design languages that lead in 2026, such as Apple's Liquid Glass and Google's Material 3 Expressive.
+
+Hover any design to read what it is for. Switch to Phone to see a whole system side by side.
+
+**Live** &nbsp;·&nbsp; [design.abbasshaheer.com](https://design.abbasshaheer.com) &nbsp;·&nbsp; [About it, and where to send requests](https://github.com/syedabbasshaheer-art/design-library)
+
+<br>
+
 ## How the repositories are arranged
 
 Each product has a private repository where the work happens, and a public one that a visitor can read.
@@ -70,20 +83,23 @@ flowchart LR
         A["Agent on Browser<br/>workshop"]
         B["AI on GitHub<br/>workshop"]
         C["NCERT Shorts<br/>workshop"]
+        G["Design library<br/>workshop"]
     end
     subgraph public["Public: what you can read"]
         D["<b>browser-agent</b><br/>the plugin's code, MIT"]
         E["<b>aiongithub</b><br/>about the product, no code"]
         F["<b>ncertshorts</b><br/>about the product, no code"]
+        H["<b>design-library</b><br/>about the product, no code"]
     end
     A -- "the product's code, by script" --> D
     B -- "words and pictures only" --> E
     C -- "words and pictures only" --> F
+    G -- "words and pictures only" --> H
 ```
 
 | | Open source | Proprietary |
 |---|---|---|
-| **Which** | Agent on Browser | AI on GitHub, NCERT Shorts |
+| **Which** | Agent on Browser | AI on GitHub, NCERT Shorts, Design library |
 | **The public repository holds** | The product's code, its tests and its guide | What the product is, how to use it, and where to send requests |
 | **You may** | Use it, change it and pass it on, under MIT | Use the product on its own site, under its terms |
 
@@ -98,5 +114,5 @@ flowchart LR
 <br>
 
 <div align="center">
-<sub><a href="https://abbasshaheer-site.vercel.app">Notes and beliefs</a></sub>
+<sub><a href="https://abbasshaheer.com">Notes and beliefs</a></sub>
 </div>
