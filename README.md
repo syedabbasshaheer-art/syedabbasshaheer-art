@@ -1,6 +1,6 @@
 # Abbas Shaheer
 
-I make software, mostly for my personal use.
+I make software, mostly for my personal use. Each piece takes something large and makes it easy to see and choose from: a textbook chapter, an agent's work, a set of design systems, the AI projects people have shipped.
 
 <table>
 <tr>
@@ -9,7 +9,7 @@ I make software, mostly for my personal use.
 <a href="https://ncertshorts.com"><img src="images/ncertshorts.jpg" alt="NCERT Shorts: a science lesson as picture cards"></a>
 
 **[NCERT Shorts](https://github.com/syedabbasshaheer-art/ncertshorts)**<br>
-The NCERT textbook, one topic at a time, told several ways: a two-minute recap, the key words, a quiz, the full theory in pictures, and a study assistant for questions.<br>
+The NCERT textbook, one topic at a time, in several forms: a two-minute recap, the key words, a quiz, the full theory in pictures, and a study assistant.<br>
 <sub>Class X Science &nbsp;·&nbsp; [ncertshorts.com](https://ncertshorts.com)</sub>
 
 </td>
@@ -26,10 +26,10 @@ A Claude Code plugin that shows a project as a page in the browser: the plan, wh
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://design.abbasshaheer.com"><img src="images/design-library-liquid-glass.jpg" alt="Design library: the systems on the left, the Liquid Glass design filling the window"></a>
+<a href="https://design.abbasshaheer.com"><img src="images/design-library-2026-10-18.jpg" alt="Design library: the systems on the left, the Liquid Glass design filling the window"></a>
 
 **[Design library](https://github.com/syedabbasshaheer-art/design-library)**<br>
-Sixty-seven working screens in twelve design systems, each at desktop and phone width, for choosing the shape of a screen before building it.<br>
+Sixty-seven working designs in twelve systems, each at desktop and phone width, for choosing the shape of a screen before building it.<br>
 <sub>[design.abbasshaheer.com](https://design.abbasshaheer.com)</sub>
 
 </td>
@@ -45,7 +45,7 @@ A catalogue of 2,453 shipped AI projects, each described in one sentence and fil
 </tr>
 </table>
 
-Agent on Browser is open source. The other three are proprietary: their repositories describe the product and take corrections and requests, and hold no code.
+Agent on Browser is open source. The code of the other three is private; their repositories describe each product and take reports.
 
 ## Beliefs
 
