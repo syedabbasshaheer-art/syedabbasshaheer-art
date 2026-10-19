@@ -1,6 +1,6 @@
 # Abbas Shaheer
 
-I make software, mostly for my personal use. Each piece takes something large and makes it easy to see and choose from: a textbook chapter, an agent's work, a set of design systems, the AI projects people have shipped.
+I make software, mostly for my personal use and problems I see as critical for a focused segment. My approach usually involves finetuning the problem space consistently till a refined solution space can be designed.
 
 <table>
 <tr>
